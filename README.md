@@ -37,8 +37,7 @@ Here are some of the projects I'm working on:
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-  *(Replace with your actual GitHub link)*
+* GitHub: https://github.com/MohamedLotfy1
 
 ---
 
